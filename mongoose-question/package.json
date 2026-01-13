@@ -1,0 +1,16 @@
+{
+  "name": "mongoose-question",
+  "version": "1.0.0",
+  "description": "Question (Q9)\r A new e‑commerce app needs to add customer records into MongoDB.\r Extend the Customer schema and write a Node.js program using Mongoose to insert at least three customers into the database.\r Ensure that duplicate emails are not allowed.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "mongoose": "^9.1.3"
+  }
+}
